@@ -31,7 +31,7 @@ to create the physical SRAM chip.
 
 
 Project Report:
-RAM_ROM_CADENCE.zip
+RAM_ROM_CADENCE/project report/final_report.pdf
 
 TOOLS USED:
 • Cadence RTL Compiler
